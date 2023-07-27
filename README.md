@@ -1,4 +1,4 @@
-# college_cvents_app
+# college_events_app
 
 A new Flutter project.
 
